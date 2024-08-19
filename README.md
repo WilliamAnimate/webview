@@ -1,6 +1,7 @@
 [![Linux CI](https://github.com/naqvis/webview/actions/workflows/linux.yml/badge.svg)](https://github.com/naqvis/webview/actions/workflows/linux.yml)
 [![MacOSX CI](https://github.com/naqvis/webview/actions/workflows/macos.yml/badge.svg)](https://github.com/naqvis/webview/actions/workflows/macos.yml)
 [![Windows CI](https://github.com/naqvis/webview/actions/workflows/windows.yml/badge.svg)](https://github.com/naqvis/webview/actions/workflows/windows.yml)
+
 # Crystal Webview
 
 Crystal language bindings for [zserge's Webview](https://github.com/zserge/webview) which is an excellent cross-platform single-header webview library for C/C++ using Gtk, Cocoa, or MSHTML/Edge, depending on the host OS.
@@ -258,6 +259,16 @@ For example, the `webview` library does not attempt to support user interaction 
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## About this fork
+
+This fork of [Ali Naqvi's](https://github.com/naqvis) [Webview](https://github.com/naqvis/webview) aims to provide up-to-date Crystal bindings to the [webview/webview](https://github.com/webview/webview) project.
+
+Any and all contributions are welcome.
+
+### Why are you not contributing these changes upstream?
+
+The original project has not received any commits in a year. I will submit patches upstream if that is no longer the case.
 
 ## Contributors
 
