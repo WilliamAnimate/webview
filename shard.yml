@@ -1,8 +1,9 @@
 name: webview
-version: 0.2.3
+version: 0.2.4-pr1
 
 authors:
   - Ali Naqvi <syed.alinaqvi@gmail.com>
+  - WilliamAnimate <nyameowmeow@duck.com>
 
 description: |
   Crystal bindings to the zserge's tiny cross-platform Webview library.
